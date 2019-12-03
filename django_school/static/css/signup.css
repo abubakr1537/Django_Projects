@@ -1,0 +1,22 @@
+.container {
+	min-width: 1200px;
+}
+.head1 {
+	background-color: #4300a1;
+}
+.container .con {
+	width: 500px;
+}
+
+.main{
+	margin: 350px;
+	margin-top: 50px;
+}
+
+.btn1 {
+	width: 200px;
+	height: 200px;
+	text-orientation: center;
+	background-color: #f27d00;
+	font-size: 30px;
+}
